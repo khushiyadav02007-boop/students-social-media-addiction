@@ -1,27 +1,27 @@
 # students-social-media-addiction
-# 📱 Students Social Media Addiction Analysis
+# Students Social Media Addiction Analysis
 
 A complete end-to-end data science project that analyzes social media usage patterns 
 among students and predicts addiction levels using Machine Learning.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Social media has become a major part of students' daily lives. While it helps with 
 communication and learning, excessive use can negatively affect:
 
-- 🧠 Mental Health
-- 😴 Sleep Quality
-- 📚 Academic Performance
-- 👥 Personal Relationships
+-  Mental Health
+- Sleep Quality
+-  Academic Performance
+-  Personal Relationships
 
 This project analyzes students' social media usage patterns and builds ML models 
 to predict addiction scores and identify the most influential factors.
 
 ---
 
-## 🔄 Project Pipeline
+##  Project Pipeline
 
 1. **Import Libraries** — Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 2. **Load Dataset** — Loaded and explored using Pandas
@@ -45,7 +45,7 @@ to predict addiction scores and identify the most influential factors.
 
 ---
 
-## 📊 Models Used
+##  Models Used
 
 | Model | Description |
 |-------|-------------|
@@ -56,7 +56,7 @@ to predict addiction scores and identify the most influential factors.
 
 ---
 
-## 🔑 Key Findings
+##  Key Findings
 
 - **Mental Health Score** and **Conflicts Over Social Media** are the most important 
   features affecting addiction score prediction
@@ -67,7 +67,7 @@ to predict addiction scores and identify the most influential factors.
 
 ---
 
-## 📁 Dataset Features Studied
+##  Dataset Features Studied
 
 | Feature | Description |
 |---------|-------------|
@@ -79,7 +79,7 @@ to predict addiction scores and identify the most influential factors.
 
 ---
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 
 - **Language:** Python
 - **Data Handling:** Pandas, NumPy
@@ -90,7 +90,7 @@ to predict addiction scores and identify the most influential factors.
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -101,7 +101,7 @@ to predict addiction scores and identify the most influential factors.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Khushi**  
 Feel free to connect and give feedback!
